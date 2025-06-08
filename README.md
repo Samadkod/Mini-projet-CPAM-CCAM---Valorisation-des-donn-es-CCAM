@@ -56,9 +56,14 @@ Ce mini projet illustre ma capacité à :
 
 ## 📄 Fichiers du projet
 
-- `Projet_CCAM_Simule.csv` → Jeu de données simulé
-- `Projet_CCAM_Rapport.pdf` → Rapport PDF complet généré sous SAS
-- `Projet_CCAM_Script.sas` → Script SAS complet et commenté
+## 📥 Accès direct aux ressources
+
+- [Mini projet CCAM - Rapport PDF](./Projet_CCAM_Rapport_Pro_FINAL_V6.pdf)
+- [Script SAS complet (V6)](./Projet_CCAM_Script_V6.sas)
+- [Jeu de données simulé (CSV)](./Projet_CCAM_Simule.csv)
+- [HTML du rapport (version interactive)](./Projet_CCAM-results.html)
+- [Autres ressources en archive (anciens PDF)](./Projet_CCAM-results.pdf), (./Projet_CCAM_Rapport.pdf)
+
 
 ---
 
