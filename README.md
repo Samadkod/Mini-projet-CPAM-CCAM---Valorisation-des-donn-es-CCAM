@@ -1,4 +1,4 @@
-# 📊 Mini projet CCAM - Valorisation des données CCAM (2021-2023)
+# 📊 [Mini projet CCAM - Valorisation des données CCAM (2021-2023)](https://github.com/Samadkod/Mini-projet-CPAM-CCAM---Valorisation-des-donn-es-CCAM/blob/main/Mini%20projet%20-CCAM/Projet%20CCAM-results.pdf)
 
 ---
 
@@ -55,14 +55,9 @@ Ce mini projet illustre ma capacité à :
 ---
 
 ## 📄 Fichiers du projet
-
-## 📥 Accès direct aux ressources
-
-- [Mini projet CCAM - Rapport PDF](./Projet_CCAM_Rapport_Pro_FINAL_V6.pdf)
+- [Mini projet CCAM - Rapport PDF](https://github.com/Samadkod/Mini-projet-CPAM-CCAM---Valorisation-des-donn-es-CCAM/blob/main/Mini%20projet%20-CCAM/Projet%20CCAM-results.pdf)
 - [Script SAS](https://github.com/Samadkod/Mini-projet-CPAM-CCAM---Valorisation-des-donn-es-CCAM/blob/main/Mini%20projet%20-CCAM/Projet%20CCAM.sas)
 - [Jeu de données simulé (CSV)](https://github.com/Samadkod/Mini-projet-CPAM-CCAM---Valorisation-des-donn-es-CCAM/blob/main/Mini%20projet%20-CCAM/Projet_CCAM_Simule.csv)
-- [HTML du rapport (version interactive)](./Projet_CCAM-results.html)
-- [Autres ressources en archive (anciens PDF)](./Projet_CCAM-results.pdf), (./Projet_CCAM_Rapport.pdf)
 
 
 ---
