@@ -19,7 +19,7 @@ Il a pour objectif de démontrer ma capacité à :
 
 | Colonne       | Description                                           |
 |---------------|------------------------------------------------------|
-| Annee         | Année de réalisation de l'acte (2021-2023)            |
+| Année         | Année de réalisation de l'acte (2021-2023)            |
 | Specialite    | Spécialité médicale (Chirurgie générale, Radiologie, Ophtalmologie) |
 | Volume_actes  | Nombre d'actes réalisés                               |
 | Tarif_moyen   | Tarif moyen observé par acte (€)                      |
@@ -65,8 +65,8 @@ Ce mini projet illustre ma capacité à :
 ## 👨‍💻 Réalisé par
 
 **Samadou KODON**  
-[https://samadkod.github.io](https://samadkod.github.io)  
-[https://www.linkedin.com/in/skodon](https://www.linkedin.com/in/skodon)
+[https://samadkod.github.io](Portfolio)  
+[https://www.linkedin.com/in/skodon](LinkedIn)
 
 ---
 
