@@ -59,7 +59,7 @@ Ce mini projet illustre ma capacité à :
 ## 📥 Accès direct aux ressources
 
 - [Mini projet CCAM - Rapport PDF](./Projet_CCAM_Rapport_Pro_FINAL_V6.pdf)
-- [Script SAS complet (V6)](./Projet_CCAM_Script_V6.sas)
+- [Script SAS](https://github.com/Samadkod/Mini-projet-CPAM-CCAM---Valorisation-des-donn-es-CCAM/blob/main/Mini%20projet%20-CCAM/Projet%20CCAM.sas)
 - [Jeu de données simulé (CSV)](./Projet_CCAM_Simule.csv)
 - [HTML du rapport (version interactive)](./Projet_CCAM-results.html)
 - [Autres ressources en archive (anciens PDF)](./Projet_CCAM-results.pdf), (./Projet_CCAM_Rapport.pdf)
