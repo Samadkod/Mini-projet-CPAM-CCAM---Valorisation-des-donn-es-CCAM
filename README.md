@@ -1,5 +1,8 @@
 # 📊 [Mini projet CCAM - Valorisation des données CCAM (2021-2023)](https://github.com/Samadkod/Mini-projet-CPAM-CCAM---Valorisation-des-donn-es-CCAM/blob/main/Mini%20projet%20-CCAM/Projet%20CCAM-results.pdf)
 
+<p align="center">
+  <img src="https://www.francebleu.fr/s3/cruiser-production/2024/01/4512df69-5c7e-45d7-8ba0-9e9dc577dd38/1200x680_sc_assurance-maladie-logo-rvb.webp" width="1000" height="300" />
+</p>
 ---
 
 ## 🎯 Objectif du projet
