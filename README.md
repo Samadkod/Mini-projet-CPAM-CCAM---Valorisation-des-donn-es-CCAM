@@ -68,8 +68,8 @@ Ce mini projet illustre ma capacité à :
 ## 👨‍💻 Réalisé par
 
 **Samadou KODON**  
-[https://samadkod.github.io](Portfolio)  
-[https://www.linkedin.com/in/skodon](LinkedIn)
+[Portfolio](https://samadkod.github.io)  
+[LinkedIn](https://www.linkedin.com/in/skodon)
 
 ---
 
