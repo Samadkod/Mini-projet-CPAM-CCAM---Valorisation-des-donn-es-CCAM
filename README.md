@@ -1,17 +1,12 @@
-# 📊 [Mini projet CCAM - Valorisation des données CCAM (2021-2023)](https://github.com/Samadkod/Mini-projet-CPAM-CCAM---Valorisation-des-donn-es-CCAM/blob/main/Mini%20projet%20-CCAM/Projet%20CCAM-results.pdf)
+# 📊 [Valorisation des données Organisme Public (2021-2023)](https://github.com/Samadkod/Mini-projet-CPAM-CCAM---Valorisation-des-donn-es-CCAM/blob/main/Mini%20projet%20-CCAM/Projet%20CCAM-results.pdf)
 
-<p align="center">
-  <img src="https://i0.wp.com/www.contrepoints.org/wp-content/uploads/2013/04/C-P-A-M.png?ssl=1" width="1000" height="300" />
-</p>
 
 
 ## 🎯 Objectif du projet
 
-Ce mini projet a été réalisé dans le cadre de ma candidature au poste de **Statisticien** à la **CPAM de Paris**.
+Ce projet a pour objectif de démontrer ma capacité à :
 
-Il a pour objectif de démontrer ma capacité à :
-
-- Exploiter des données CCAM sous SAS
+- Exploiter des données sous SAS
 - Produire des analyses pertinentes pour la révision de la nomenclature
 - Générer un rapport automatisé et professionnel sous SAS
 - Valoriser les résultats de manière compréhensible pour les équipes métier
@@ -58,7 +53,7 @@ Ce mini projet illustre ma capacité à :
 ---
 
 ## 📄 Fichiers du projet
-- [Mini projet CCAM - Rapport PDF](https://github.com/Samadkod/Mini-projet-CPAM-CCAM---Valorisation-des-donn-es-CCAM/blob/main/Mini%20projet%20-CCAM/Projet%20CCAM-results.pdf)
+- [Mini projet- Rapport PDF](https://github.com/Samadkod/Mini-projet-CPAM-CCAM---Valorisation-des-donn-es-CCAM/blob/main/Mini%20projet%20-CCAM/Projet%20CCAM-results.pdf)
 - [Script SAS](https://github.com/Samadkod/Mini-projet-CPAM-CCAM---Valorisation-des-donn-es-CCAM/blob/main/Mini%20projet%20-CCAM/Projet%20CCAM.sas)
 - [Jeu de données simulé (CSV)](https://github.com/Samadkod/Mini-projet-CPAM-CCAM---Valorisation-des-donn-es-CCAM/blob/main/Mini%20projet%20-CCAM/Projet_CCAM_Simule.csv)
 
